@@ -1,5 +1,5 @@
-# library-management-system
+# Library management system
+<p>Python project to manage library tasks</p>
 
-a Python project to manage library tasks.
-
-# I will create gui soon...
+<br>
+<h3> I'll Add GUI later </h3>
