@@ -1,5 +1,4 @@
 # Library management system
-
 <p>a Python project to manage library tasks</p>
 <br>
 <ol>
