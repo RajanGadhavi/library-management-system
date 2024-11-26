@@ -3,18 +3,18 @@ import firebase_admin
 from firebase_admin import credentials, db, firestore 
 
 #Firebase here
-cred = credentials.Certificate(r"D:\Data\Python\New Begging\LIB\cred.json")  # Replace with the path to your JSON key
+cred = credentials.Certificate(r"D:\Data\Python\New Begging\cred.json")  # Replace with the path to your JSON key
 firebase_admin.initialize_app(cred, {
     'databaseURL': "https://onlib-f4bf7-default-rtdb.firebaseio.com/"
 })
 
 #Books data stored on local storge to firebase 
-bookFilePath = r"D:\Data\Python\New Begging\LIB\booksData.json"
+bookFilePath = r"D:\Data\Python\New Begging\library-management-system\booksData.json"
 with open(bookFilePath, "r") as file:
     books_dict = json.load(file)
     
 #User data stored on local storge to firebase
-userFilePath = r"D:\Data\Python\New Begging\LIB\userData.json"
+userFilePath = r"D:\Data\Python\New Begging\library-management-system\userData.json"
 with open(userFilePath, "r") as file:
     user_dict = json.load(file)
 

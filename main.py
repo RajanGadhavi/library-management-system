@@ -8,13 +8,8 @@ firebase_admin.initialize_app(cred, {
     'databaseURL': "https://onlib-f4bf7-default-rtdb.firebaseio.com/"
 })
 
-#Books data stored on local storge to firebase 
-#filePath = r"D:\Data\Python\New Begging\booksData.json"
-#with open(filePath, "r") as file:
-    #books_dict = json.load(file)
     
 ref = db.reference('/')
-#ref.set(books_dict)
 data = ref.get()
 
 # "this function is to print list of books" 
