@@ -1,0 +1,2752 @@
+{
+    "Book_1": {
+        "Title": "Programming in C++ Vol 76",
+        "Author": "Richard Harris",
+        "Published Year": 1948
+    },
+    "Book_2": {
+        "Title": "Electronics Basics Vol 79",
+        "Author": "Chris Johnson",
+        "Published Year": 1989
+    },
+    "Book_3": {
+        "Title": "Project Management Vol 55",
+        "Author": "Robert Anderson",
+        "Published Year": 2023
+    },
+    "Book_4": {
+        "Title": "Virtual Reality Vol 71",
+        "Author": "Sarah Moore",
+        "Published Year": 1968
+    },
+    "Book_5": {
+        "Title": "IoT Essentials Vol 54",
+        "Author": "Lisa Allen",
+        "Published Year": 1993
+    },
+    "Book_6": {
+        "Title": "Data Science Vol 66",
+        "Author": "Michael Brown",
+        "Published Year": 1989
+    },
+    "Book_7": {
+        "Title": "IoT Essentials Vol 12",
+        "Author": "Sarah Moore",
+        "Published Year": 2007
+    },
+    "Book_8": {
+        "Title": "Embedded Systems Vol 10",
+        "Author": "Lisa Allen",
+        "Published Year": 1914
+    },
+    "Book_9": {
+        "Title": "Electronics Basics Vol 27",
+        "Author": "William White",
+        "Published Year": 1911
+    },
+    "Book_10": {
+        "Title": "Augmented Reality Vol 40",
+        "Author": "Robert Anderson",
+        "Published Year": 1949
+    },
+    "Book_11": {
+        "Title": "Natural Language Processing Vol 54",
+        "Author": "Linda Thomas",
+        "Published Year": 1947
+    },
+    "Book_12": {
+        "Title": "Big Data Analytics Vol 97",
+        "Author": "Robert Anderson",
+        "Published Year": 1932
+    },
+    "Book_13": {
+        "Title": "Computer Networks Vol 2",
+        "Author": "Sophia Scott",
+        "Published Year": 1979
+    },
+    "Book_14": {
+        "Title": "Blockchain Basics Vol 42",
+        "Author": "Chris Johnson",
+        "Published Year": 1912
+    },
+    "Book_15": {
+        "Title": "Project Management Vol 71",
+        "Author": "Lisa Allen",
+        "Published Year": 2010
+    },
+    "Book_16": {
+        "Title": "Cyber Security Vol 11",
+        "Author": "Robert Anderson",
+        "Published Year": 1906
+    },
+    "Book_17": {
+        "Title": "Mobile App Development Vol 11",
+        "Author": "John Doe",
+        "Published Year": 1953
+    },
+    "Book_18": {
+        "Title": "Machine Learning Vol 27",
+        "Author": "Jessica Martin",
+        "Published Year": 1973
+    },
+    "Book_19": {
+        "Title": "Parallel Computing Vol 25",
+        "Author": "Linda Thomas",
+        "Published Year": 1961
+    },
+    "Book_20": {
+        "Title": "Machine Learning Vol 41",
+        "Author": "Emily Davis",
+        "Published Year": 1909
+    },
+    "Book_21": {
+        "Title": "3D Printing Vol 20",
+        "Author": "Linda Thomas",
+        "Published Year": 1976
+    },
+    "Book_22": {
+        "Title": "3D Printing Vol 90",
+        "Author": "Emily Davis",
+        "Published Year": 1918
+    },
+    "Book_23": {
+        "Title": "Data Science Vol 85",
+        "Author": "Mark Hall",
+        "Published Year": 1907
+    },
+    "Book_24": {
+        "Title": "Game Development Vol 33",
+        "Author": "Richard Harris",
+        "Published Year": 1916
+    },
+    "Book_25": {
+        "Title": "Statistics for Data Science Vol 64",
+        "Author": "Emily Davis",
+        "Published Year": 1988
+    },
+    "Book_26": {
+        "Title": "System Design Vol 13",
+        "Author": "Michael Brown",
+        "Published Year": 1970
+    },
+    "Book_27": {
+        "Title": "Operating Systems Vol 6",
+        "Author": "Jane Smith",
+        "Published Year": 1985
+    },
+    "Book_28": {
+        "Title": "Edge Computing Vol 29",
+        "Author": "Mark Hall",
+        "Published Year": 1927
+    },
+    "Book_29": {
+        "Title": "Robotics Vol 92",
+        "Author": "William White",
+        "Published Year": 1969
+    },
+    "Book_30": {
+        "Title": "Artificial Intelligence Vol 26",
+        "Author": "Patricia Wilson",
+        "Published Year": 1914
+    },
+    "Book_31": {
+        "Title": "Computer Vision Vol 85",
+        "Author": "Karen Young",
+        "Published Year": 2014
+    },
+    "Book_32": {
+        "Title": "UX/UI Design Vol 50",
+        "Author": "Patricia Wilson",
+        "Published Year": 1997
+    },
+    "Book_33": {
+        "Title": "Programming in C++ Vol 59",
+        "Author": "Karen Young",
+        "Published Year": 1963
+    },
+    "Book_34": {
+        "Title": "Robotics Vol 66",
+        "Author": "Chris Johnson",
+        "Published Year": 1956
+    },
+    "Book_35": {
+        "Title": "Cyber Security Vol 79",
+        "Author": "William White",
+        "Published Year": 1912
+    },
+    "Book_36": {
+        "Title": "Python Programming Vol 91",
+        "Author": "Joseph Lee",
+        "Published Year": 1925
+    },
+    "Book_37": {
+        "Title": "Cryptography Vol 85",
+        "Author": "William White",
+        "Published Year": 1922
+    },
+    "Book_38": {
+        "Title": "Data Structures Vol 54",
+        "Author": "Emily Davis",
+        "Published Year": 1947
+    },
+    "Book_39": {
+        "Title": "Game Development Vol 34",
+        "Author": "Mark Hall",
+        "Published Year": 1915
+    },
+    "Book_40": {
+        "Title": "Computer Networks Vol 58",
+        "Author": "Linda Thomas",
+        "Published Year": 2000
+    },
+    "Book_41": {
+        "Title": "Python Programming Vol 44",
+        "Author": "Joseph Lee",
+        "Published Year": 1911
+    },
+    "Book_42": {
+        "Title": "Parallel Computing Vol 85",
+        "Author": "Joseph Lee",
+        "Published Year": 1924
+    },
+    "Book_43": {
+        "Title": "Big Data Analytics Vol 18",
+        "Author": "Jane Smith",
+        "Published Year": 1923
+    },
+    "Book_44": {
+        "Title": "Artificial Intelligence Vol 1",
+        "Author": "Jane Smith",
+        "Published Year": 2019
+    },
+    "Book_45": {
+        "Title": "System Design Vol 99",
+        "Author": "Sophia Scott",
+        "Published Year": 1912
+    },
+    "Book_46": {
+        "Title": "AI Ethics Vol 77",
+        "Author": "Emily Davis",
+        "Published Year": 1936
+    },
+    "Book_47": {
+        "Title": "Virtual Reality Vol 3",
+        "Author": "William White",
+        "Published Year": 2004
+    },
+    "Book_48": {
+        "Title": "Electronics Basics Vol 50",
+        "Author": "Mark Hall",
+        "Published Year": 1901
+    },
+    "Book_49": {
+        "Title": "AI Ethics Vol 15",
+        "Author": "Lisa Allen",
+        "Published Year": 1972
+    },
+    "Book_50": {
+        "Title": "Cyber Security Vol 55",
+        "Author": "Linda Thomas",
+        "Published Year": 1986
+    },
+    "Book_51": {
+        "Title": "E-Commerce Vol 69",
+        "Author": "Emily Davis",
+        "Published Year": 1961
+    },
+    "Book_52": {
+        "Title": "Parallel Computing Vol 96",
+        "Author": "Emily Davis",
+        "Published Year": 1936
+    },
+    "Book_53": {
+        "Title": "AI Ethics Vol 17",
+        "Author": "Michael Brown",
+        "Published Year": 1924
+    },
+    "Book_54": {
+        "Title": "Edge Computing Vol 63",
+        "Author": "John Doe",
+        "Published Year": 1988
+    },
+    "Book_55": {
+        "Title": "Computer Vision Vol 53",
+        "Author": "Patricia Wilson",
+        "Published Year": 1927
+    },
+    "Book_56": {
+        "Title": "Natural Language Processing Vol 5",
+        "Author": "Jane Smith",
+        "Published Year": 1905
+    },
+    "Book_57": {
+        "Title": "Database Management Vol 32",
+        "Author": "Sophia Scott",
+        "Published Year": 1910
+    },
+    "Book_58": {
+        "Title": "Python Programming Vol 7",
+        "Author": "Chris Johnson",
+        "Published Year": 1972
+    },
+    "Book_59": {
+        "Title": "E-Commerce Vol 7",
+        "Author": "Joseph Lee",
+        "Published Year": 1986
+    },
+    "Book_60": {
+        "Title": "Cyber Security Vol 72",
+        "Author": "Karen Young",
+        "Published Year": 1951
+    },
+    "Book_61": {
+        "Title": "Mobile Security Vol 59",
+        "Author": "Mark Hall",
+        "Published Year": 1999
+    },
+    "Book_62": {
+        "Title": "3D Printing Vol 1",
+        "Author": "Linda Thomas",
+        "Published Year": 1940
+    },
+    "Book_63": {
+        "Title": "Operating Systems Vol 68",
+        "Author": "Sarah Moore",
+        "Published Year": 1937
+    },
+    "Book_64": {
+        "Title": "UX/UI Design Vol 62",
+        "Author": "Sarah Moore",
+        "Published Year": 2019
+    },
+    "Book_65": {
+        "Title": "Computer Vision Vol 34",
+        "Author": "Sophia Scott",
+        "Published Year": 2004
+    },
+    "Book_66": {
+        "Title": "Software Testing Vol 47",
+        "Author": "William White",
+        "Published Year": 2003
+    },
+    "Book_67": {
+        "Title": "AI Ethics Vol 23",
+        "Author": "Jane Smith",
+        "Published Year": 2005
+    },
+    "Book_68": {
+        "Title": "Artificial Intelligence Vol 7",
+        "Author": "Karen Young",
+        "Published Year": 2015
+    },
+    "Book_69": {
+        "Title": "Software Testing Vol 87",
+        "Author": "Lisa Allen",
+        "Published Year": 1916
+    },
+    "Book_70": {
+        "Title": "Programming in Java Vol 92",
+        "Author": "John Doe",
+        "Published Year": 1941
+    },
+    "Book_71": {
+        "Title": "Natural Language Processing Vol 84",
+        "Author": "Paul Clark",
+        "Published Year": 1923
+    },
+    "Book_72": {
+        "Title": "Computer Vision Vol 23",
+        "Author": "Sophia Scott",
+        "Published Year": 1910
+    },
+    "Book_73": {
+        "Title": "Digital Marketing Vol 23",
+        "Author": "John Doe",
+        "Published Year": 2018
+    },
+    "Book_74": {
+        "Title": "Artificial Intelligence Vol 34",
+        "Author": "Mark Hall",
+        "Published Year": 1915
+    },
+    "Book_75": {
+        "Title": "Compiler Design Vol 12",
+        "Author": "Mark Hall",
+        "Published Year": 2003
+    },
+    "Book_76": {
+        "Title": "IoT Essentials Vol 90",
+        "Author": "Joseph Lee",
+        "Published Year": 2011
+    },
+    "Book_77": {
+        "Title": "Compiler Design Vol 81",
+        "Author": "Mark Hall",
+        "Published Year": 1966
+    },
+    "Book_78": {
+        "Title": "E-Commerce Vol 93",
+        "Author": "Jane Smith",
+        "Published Year": 1967
+    },
+    "Book_79": {
+        "Title": "Programming in Java Vol 18",
+        "Author": "Jessica Martin",
+        "Published Year": 1942
+    },
+    "Book_80": {
+        "Title": "Artificial Intelligence Vol 12",
+        "Author": "Paul Clark",
+        "Published Year": 1976
+    },
+    "Book_81": {
+        "Title": "Data Science Vol 17",
+        "Author": "Sarah Moore",
+        "Published Year": 1974
+    },
+    "Book_82": {
+        "Title": "Algorithm Design Vol 19",
+        "Author": "Emily Davis",
+        "Published Year": 1952
+    },
+    "Book_83": {
+        "Title": "Cloud Computing Vol 54",
+        "Author": "Jessica Martin",
+        "Published Year": 1946
+    },
+    "Book_84": {
+        "Title": "Blockchain Basics Vol 29",
+        "Author": "John Doe",
+        "Published Year": 1987
+    },
+    "Book_85": {
+        "Title": "Digital Marketing Vol 6",
+        "Author": "William White",
+        "Published Year": 1900
+    },
+    "Book_86": {
+        "Title": "Augmented Reality Vol 79",
+        "Author": "Jane Smith",
+        "Published Year": 2019
+    },
+    "Book_87": {
+        "Title": "Algorithm Design Vol 7",
+        "Author": "William White",
+        "Published Year": 2006
+    },
+    "Book_88": {
+        "Title": "Statistics for Data Science Vol 9",
+        "Author": "John Doe",
+        "Published Year": 1983
+    },
+    "Book_89": {
+        "Title": "Digital Signal Processing Vol 27",
+        "Author": "Lisa Allen",
+        "Published Year": 1977
+    },
+    "Book_90": {
+        "Title": "Python Programming Vol 13",
+        "Author": "Patricia Wilson",
+        "Published Year": 1969
+    },
+    "Book_91": {
+        "Title": "Machine Learning Vol 89",
+        "Author": "Jane Smith",
+        "Published Year": 1948
+    },
+    "Book_92": {
+        "Title": "Blockchain Basics Vol 91",
+        "Author": "Emily Davis",
+        "Published Year": 1908
+    },
+    "Book_93": {
+        "Title": "Computer Vision Vol 74",
+        "Author": "Mark Hall",
+        "Published Year": 1941
+    },
+    "Book_94": {
+        "Title": "AI Ethics Vol 71",
+        "Author": "Patricia Wilson",
+        "Published Year": 1914
+    },
+    "Book_95": {
+        "Title": "Data Science Vol 27",
+        "Author": "Emily Davis",
+        "Published Year": 1964
+    },
+    "Book_96": {
+        "Title": "Artificial Intelligence Vol 5",
+        "Author": "Jane Smith",
+        "Published Year": 1970
+    },
+    "Book_97": {
+        "Title": "Bioinformatics Vol 10",
+        "Author": "Jessica Martin",
+        "Published Year": 1983
+    },
+    "Book_98": {
+        "Title": "Linear Algebra Vol 39",
+        "Author": "William White",
+        "Published Year": 1963
+    },
+    "Book_99": {
+        "Title": "Python Programming Vol 63",
+        "Author": "Jessica Martin",
+        "Published Year": 1967
+    },
+    "Book_100": {
+        "Title": "Software Engineering Vol 42",
+        "Author": "Robert Anderson",
+        "Published Year": 1991
+    },
+    "Book_101": {
+        "Title": "Game Development Vol 92",
+        "Author": "Richard Harris",
+        "Published Year": 2003
+    },
+    "Book_102": {
+        "Title": "Data Structures Vol 24",
+        "Author": "Sophia Scott",
+        "Published Year": 1994
+    },
+    "Book_103": {
+        "Title": "Calculus for Engineers Vol 7",
+        "Author": "Paul Clark",
+        "Published Year": 1954
+    },
+    "Book_104": {
+        "Title": "Programming in Java Vol 81",
+        "Author": "Jane Smith",
+        "Published Year": 1996
+    },
+    "Book_105": {
+        "Title": "Compiler Design Vol 4",
+        "Author": "John Doe",
+        "Published Year": 1940
+    },
+    "Book_106": {
+        "Title": "Edge Computing Vol 51",
+        "Author": "Patricia Wilson",
+        "Published Year": 1950
+    },
+    "Book_107": {
+        "Title": "Programming in C++ Vol 2",
+        "Author": "Lisa Allen",
+        "Published Year": 1965
+    },
+    "Book_108": {
+        "Title": "Graphics Design Vol 11",
+        "Author": "Mark Hall",
+        "Published Year": 2021
+    },
+    "Book_109": {
+        "Title": "E-Commerce Vol 8",
+        "Author": "Paul Clark",
+        "Published Year": 2022
+    },
+    "Book_110": {
+        "Title": "Statistics for Data Science Vol 87",
+        "Author": "Lisa Allen",
+        "Published Year": 1927
+    },
+    "Book_111": {
+        "Title": "Deep Learning Vol 49",
+        "Author": "Lisa Allen",
+        "Published Year": 1971
+    },
+    "Book_112": {
+        "Title": "3D Printing Vol 21",
+        "Author": "Linda Thomas",
+        "Published Year": 1906
+    },
+    "Book_113": {
+        "Title": "System Design Vol 98",
+        "Author": "Lisa Allen",
+        "Published Year": 1937
+    },
+    "Book_114": {
+        "Title": "Algorithm Design Vol 98",
+        "Author": "Paul Clark",
+        "Published Year": 1923
+    },
+    "Book_115": {
+        "Title": "Embedded Systems Vol 39",
+        "Author": "William White",
+        "Published Year": 1901
+    },
+    "Book_116": {
+        "Title": "Embedded Systems Vol 54",
+        "Author": "Karen Young",
+        "Published Year": 2001
+    },
+    "Book_117": {
+        "Title": "Computer Networks Vol 23",
+        "Author": "Linda Thomas",
+        "Published Year": 1936
+    },
+    "Book_118": {
+        "Title": "Cyber Security Vol 34",
+        "Author": "Karen Young",
+        "Published Year": 2021
+    },
+    "Book_119": {
+        "Title": "Python Programming Vol 96",
+        "Author": "Chris Johnson",
+        "Published Year": 1909
+    },
+    "Book_120": {
+        "Title": "Digital Signal Processing Vol 55",
+        "Author": "Jessica Martin",
+        "Published Year": 1968
+    },
+    "Book_121": {
+        "Title": "3D Printing Vol 74",
+        "Author": "Linda Thomas",
+        "Published Year": 1990
+    },
+    "Book_122": {
+        "Title": "Cyber Security Vol 57",
+        "Author": "Paul Clark",
+        "Published Year": 2019
+    },
+    "Book_123": {
+        "Title": "3D Printing Vol 45",
+        "Author": "John Doe",
+        "Published Year": 1928
+    },
+    "Book_124": {
+        "Title": "Digital Marketing Vol 82",
+        "Author": "Joseph Lee",
+        "Published Year": 1908
+    },
+    "Book_125": {
+        "Title": "Virtual Reality Vol 22",
+        "Author": "Patricia Wilson",
+        "Published Year": 1909
+    },
+    "Book_126": {
+        "Title": "Computer Vision Vol 92",
+        "Author": "Richard Harris",
+        "Published Year": 2013
+    },
+    "Book_127": {
+        "Title": "Data Science Vol 79",
+        "Author": "Karen Young",
+        "Published Year": 1987
+    },
+    "Book_128": {
+        "Title": "Robotics Vol 80",
+        "Author": "Lisa Allen",
+        "Published Year": 1962
+    },
+    "Book_129": {
+        "Title": "IoT Essentials Vol 51",
+        "Author": "Sophia Scott",
+        "Published Year": 1966
+    },
+    "Book_130": {
+        "Title": "Programming in C++ Vol 5",
+        "Author": "William White",
+        "Published Year": 1926
+    },
+    "Book_131": {
+        "Title": "Natural Language Processing Vol 20",
+        "Author": "Patricia Wilson",
+        "Published Year": 1924
+    },
+    "Book_132": {
+        "Title": "Cloud Computing Vol 22",
+        "Author": "Jessica Martin",
+        "Published Year": 1911
+    },
+    "Book_133": {
+        "Title": "Programming in Java Vol 42",
+        "Author": "Karen Young",
+        "Published Year": 1945
+    },
+    "Book_134": {
+        "Title": "Digital Signal Processing Vol 86",
+        "Author": "John Doe",
+        "Published Year": 2018
+    },
+    "Book_135": {
+        "Title": "Python Programming Vol 75",
+        "Author": "Michael Brown",
+        "Published Year": 1959
+    },
+    "Book_136": {
+        "Title": "Mobile App Development Vol 43",
+        "Author": "Sophia Scott",
+        "Published Year": 2010
+    },
+    "Book_137": {
+        "Title": "System Design Vol 95",
+        "Author": "Joseph Lee",
+        "Published Year": 1936
+    },
+    "Book_138": {
+        "Title": "Cyber Security Vol 14",
+        "Author": "Sarah Moore",
+        "Published Year": 1993
+    },
+    "Book_139": {
+        "Title": "Statistics for Data Science Vol 72",
+        "Author": "Michael Brown",
+        "Published Year": 1905
+    },
+    "Book_140": {
+        "Title": "Robotics Vol 32",
+        "Author": "Richard Harris",
+        "Published Year": 1949
+    },
+    "Book_141": {
+        "Title": "Algorithm Design Vol 18",
+        "Author": "Robert Anderson",
+        "Published Year": 2003
+    },
+    "Book_142": {
+        "Title": "Database Management Vol 12",
+        "Author": "Karen Young",
+        "Published Year": 2020
+    },
+    "Book_143": {
+        "Title": "Software Engineering Vol 53",
+        "Author": "Linda Thomas",
+        "Published Year": 1915
+    },
+    "Book_144": {
+        "Title": "Python Programming Vol 19",
+        "Author": "Chris Johnson",
+        "Published Year": 1939
+    },
+    "Book_145": {
+        "Title": "Software Engineering Vol 61",
+        "Author": "William White",
+        "Published Year": 1983
+    },
+    "Book_146": {
+        "Title": "Bioinformatics Vol 91",
+        "Author": "Karen Young",
+        "Published Year": 1954
+    },
+    "Book_147": {
+        "Title": "AI Ethics Vol 50",
+        "Author": "John Doe",
+        "Published Year": 1996
+    },
+    "Book_148": {
+        "Title": "Calculus for Engineers Vol 78",
+        "Author": "Patricia Wilson",
+        "Published Year": 1996
+    },
+    "Book_149": {
+        "Title": "Cloud Computing Vol 56",
+        "Author": "Sophia Scott",
+        "Published Year": 1910
+    },
+    "Book_150": {
+        "Title": "E-Commerce Vol 95",
+        "Author": "Joseph Lee",
+        "Published Year": 1973
+    },
+    "Book_151": {
+        "Title": "Bioinformatics Vol 50",
+        "Author": "Jessica Martin",
+        "Published Year": 1996
+    },
+    "Book_152": {
+        "Title": "Game Development Vol 23",
+        "Author": "John Doe",
+        "Published Year": 2008
+    },
+    "Book_153": {
+        "Title": "Parallel Computing Vol 52",
+        "Author": "Jane Smith",
+        "Published Year": 1948
+    },
+    "Book_154": {
+        "Title": "Quantum Computing Vol 8",
+        "Author": "Jane Smith",
+        "Published Year": 1902
+    },
+    "Book_155": {
+        "Title": "Augmented Reality Vol 54",
+        "Author": "John Doe",
+        "Published Year": 1989
+    },
+    "Book_156": {
+        "Title": "Cyber Security Vol 12",
+        "Author": "Robert Anderson",
+        "Published Year": 1903
+    },
+    "Book_157": {
+        "Title": "Mobile App Development Vol 68",
+        "Author": "Jane Smith",
+        "Published Year": 1978
+    },
+    "Book_158": {
+        "Title": "Graphics Design Vol 99",
+        "Author": "Linda Thomas",
+        "Published Year": 1983
+    },
+    "Book_159": {
+        "Title": "Big Data Analytics Vol 32",
+        "Author": "Jessica Martin",
+        "Published Year": 1914
+    },
+    "Book_160": {
+        "Title": "Artificial Intelligence Vol 6",
+        "Author": "Michael Brown",
+        "Published Year": 2002
+    },
+    "Book_161": {
+        "Title": "Game Development Vol 84",
+        "Author": "William White",
+        "Published Year": 1979
+    },
+    "Book_162": {
+        "Title": "Digital Marketing Vol 17",
+        "Author": "Linda Thomas",
+        "Published Year": 1915
+    },
+    "Book_163": {
+        "Title": "Parallel Computing Vol 27",
+        "Author": "Jane Smith",
+        "Published Year": 1976
+    },
+    "Book_164": {
+        "Title": "Software Testing Vol 43",
+        "Author": "Paul Clark",
+        "Published Year": 2017
+    },
+    "Book_165": {
+        "Title": "Mobile App Development Vol 53",
+        "Author": "Mark Hall",
+        "Published Year": 1902
+    },
+    "Book_166": {
+        "Title": "E-Commerce Vol 81",
+        "Author": "Sarah Moore",
+        "Published Year": 1996
+    },
+    "Book_167": {
+        "Title": "AI Ethics Vol 62",
+        "Author": "Karen Young",
+        "Published Year": 1972
+    },
+    "Book_168": {
+        "Title": "DevOps Practices Vol 9",
+        "Author": "Patricia Wilson",
+        "Published Year": 1934
+    },
+    "Book_169": {
+        "Title": "Augmented Reality Vol 57",
+        "Author": "Paul Clark",
+        "Published Year": 1956
+    },
+    "Book_170": {
+        "Title": "Robotics Vol 18",
+        "Author": "Lisa Allen",
+        "Published Year": 1911
+    },
+    "Book_171": {
+        "Title": "Mobile App Development Vol 5",
+        "Author": "Patricia Wilson",
+        "Published Year": 2014
+    },
+    "Book_172": {
+        "Title": "Operating Systems Vol 94",
+        "Author": "John Doe",
+        "Published Year": 1922
+    },
+    "Book_173": {
+        "Title": "Functional Programming Vol 56",
+        "Author": "Sarah Moore",
+        "Published Year": 1985
+    },
+    "Book_174": {
+        "Title": "Virtual Reality Vol 90",
+        "Author": "Jane Smith",
+        "Published Year": 2018
+    },
+    "Book_175": {
+        "Title": "Mobile App Development Vol 33",
+        "Author": "Mark Hall",
+        "Published Year": 1964
+    },
+    "Book_176": {
+        "Title": "Functional Programming Vol 87",
+        "Author": "Sarah Moore",
+        "Published Year": 1966
+    },
+    "Book_177": {
+        "Title": "Web Development Vol 59",
+        "Author": "Jane Smith",
+        "Published Year": 1955
+    },
+    "Book_178": {
+        "Title": "Robotics Vol 58",
+        "Author": "Paul Clark",
+        "Published Year": 1906
+    },
+    "Book_179": {
+        "Title": "Programming in Java Vol 59",
+        "Author": "Richard Harris",
+        "Published Year": 2011
+    },
+    "Book_180": {
+        "Title": "Big Data Analytics Vol 25",
+        "Author": "Michael Brown",
+        "Published Year": 1995
+    },
+    "Book_181": {
+        "Title": "Programming in C++ Vol 38",
+        "Author": "Karen Young",
+        "Published Year": 1909
+    },
+    "Book_182": {
+        "Title": "Operating Systems Vol 19",
+        "Author": "Richard Harris",
+        "Published Year": 2023
+    },
+    "Book_183": {
+        "Title": "Robotics Vol 97",
+        "Author": "Emily Davis",
+        "Published Year": 1984
+    },
+    "Book_184": {
+        "Title": "Virtual Reality Vol 25",
+        "Author": "William White",
+        "Published Year": 2020
+    },
+    "Book_185": {
+        "Title": "Cyber Security Vol 25",
+        "Author": "Patricia Wilson",
+        "Published Year": 1936
+    },
+    "Book_186": {
+        "Title": "Calculus for Engineers Vol 1",
+        "Author": "John Doe",
+        "Published Year": 1950
+    },
+    "Book_187": {
+        "Title": "Mobile Security Vol 74",
+        "Author": "Joseph Lee",
+        "Published Year": 1925
+    },
+    "Book_188": {
+        "Title": "Digital Signal Processing Vol 22",
+        "Author": "Joseph Lee",
+        "Published Year": 1924
+    },
+    "Book_189": {
+        "Title": "Cyber Security Vol 28",
+        "Author": "Mark Hall",
+        "Published Year": 1984
+    },
+    "Book_190": {
+        "Title": "UX/UI Design Vol 88",
+        "Author": "Jane Smith",
+        "Published Year": 1983
+    },
+    "Book_191": {
+        "Title": "Data Science Vol 25",
+        "Author": "Linda Thomas",
+        "Published Year": 2013
+    },
+    "Book_192": {
+        "Title": "Algorithm Design Vol 32",
+        "Author": "Sarah Moore",
+        "Published Year": 1905
+    },
+    "Book_193": {
+        "Title": "System Design Vol 31",
+        "Author": "Paul Clark",
+        "Published Year": 1927
+    },
+    "Book_194": {
+        "Title": "Project Management Vol 42",
+        "Author": "John Doe",
+        "Published Year": 1938
+    },
+    "Book_195": {
+        "Title": "Big Data Analytics Vol 61",
+        "Author": "Karen Young",
+        "Published Year": 2005
+    },
+    "Book_196": {
+        "Title": "Blockchain Basics Vol 3",
+        "Author": "Joseph Lee",
+        "Published Year": 1905
+    },
+    "Book_197": {
+        "Title": "Natural Language Processing Vol 3",
+        "Author": "Emily Davis",
+        "Published Year": 2009
+    },
+    "Book_198": {
+        "Title": "Programming in JavaScript Vol 71",
+        "Author": "Robert Anderson",
+        "Published Year": 1967
+    },
+    "Book_199": {
+        "Title": "Compiler Design Vol 100",
+        "Author": "Jane Smith",
+        "Published Year": 1965
+    },
+    "Book_200": {
+        "Title": "Software Testing Vol 84",
+        "Author": "Chris Johnson",
+        "Published Year": 1913
+    },
+    "Book_201": {
+        "Title": "Python Programming Vol 36",
+        "Author": "Chris Johnson",
+        "Published Year": 1964
+    },
+    "Book_202": {
+        "Title": "Programming in Java Vol 11",
+        "Author": "Karen Young",
+        "Published Year": 1933
+    },
+    "Book_203": {
+        "Title": "Deep Learning Vol 69",
+        "Author": "Sarah Moore",
+        "Published Year": 1961
+    },
+    "Book_204": {
+        "Title": "Augmented Reality Vol 50",
+        "Author": "Chris Johnson",
+        "Published Year": 1923
+    },
+    "Book_205": {
+        "Title": "Software Engineering Vol 57",
+        "Author": "Mark Hall",
+        "Published Year": 1911
+    },
+    "Book_206": {
+        "Title": "Bioinformatics Vol 19",
+        "Author": "John Doe",
+        "Published Year": 1940
+    },
+    "Book_207": {
+        "Title": "Edge Computing Vol 81",
+        "Author": "Lisa Allen",
+        "Published Year": 1982
+    },
+    "Book_208": {
+        "Title": "Game Development Vol 96",
+        "Author": "Sarah Moore",
+        "Published Year": 1994
+    },
+    "Book_209": {
+        "Title": "Programming in C++ Vol 55",
+        "Author": "Linda Thomas",
+        "Published Year": 1935
+    },
+    "Book_210": {
+        "Title": "Edge Computing Vol 30",
+        "Author": "Joseph Lee",
+        "Published Year": 1951
+    },
+    "Book_211": {
+        "Title": "Quantum Computing Vol 57",
+        "Author": "Richard Harris",
+        "Published Year": 1960
+    },
+    "Book_212": {
+        "Title": "Parallel Computing Vol 30",
+        "Author": "Chris Johnson",
+        "Published Year": 2007
+    },
+    "Book_213": {
+        "Title": "Edge Computing Vol 58",
+        "Author": "Robert Anderson",
+        "Published Year": 1912
+    },
+    "Book_214": {
+        "Title": "Mobile Security Vol 43",
+        "Author": "John Doe",
+        "Published Year": 1917
+    },
+    "Book_215": {
+        "Title": "Digital Marketing Vol 92",
+        "Author": "Mark Hall",
+        "Published Year": 1909
+    },
+    "Book_216": {
+        "Title": "Digital Marketing Vol 91",
+        "Author": "William White",
+        "Published Year": 2014
+    },
+    "Book_217": {
+        "Title": "Web Development Vol 31",
+        "Author": "Paul Clark",
+        "Published Year": 1980
+    },
+    "Book_218": {
+        "Title": "Blockchain Basics Vol 81",
+        "Author": "John Doe",
+        "Published Year": 2007
+    },
+    "Book_219": {
+        "Title": "Calculus for Engineers Vol 15",
+        "Author": "Joseph Lee",
+        "Published Year": 2009
+    },
+    "Book_220": {
+        "Title": "Operating Systems Vol 69",
+        "Author": "Paul Clark",
+        "Published Year": 1985
+    },
+    "Book_221": {
+        "Title": "Blockchain Basics Vol 40",
+        "Author": "Jane Smith",
+        "Published Year": 1953
+    },
+    "Book_222": {
+        "Title": "AI Ethics Vol 20",
+        "Author": "Patricia Wilson",
+        "Published Year": 1913
+    },
+    "Book_223": {
+        "Title": "Database Management Vol 73",
+        "Author": "Paul Clark",
+        "Published Year": 1913
+    },
+    "Book_224": {
+        "Title": "Linear Algebra Vol 2",
+        "Author": "Michael Brown",
+        "Published Year": 1960
+    },
+    "Book_225": {
+        "Title": "Cryptography Vol 19",
+        "Author": "Mark Hall",
+        "Published Year": 1948
+    },
+    "Book_226": {
+        "Title": "Computer Networks Vol 43",
+        "Author": "William White",
+        "Published Year": 1970
+    },
+    "Book_227": {
+        "Title": "Embedded Systems Vol 56",
+        "Author": "Lisa Allen",
+        "Published Year": 1907
+    },
+    "Book_228": {
+        "Title": "Computer Networks Vol 38",
+        "Author": "Jane Smith",
+        "Published Year": 1903
+    },
+    "Book_229": {
+        "Title": "Programming in Java Vol 35",
+        "Author": "Sophia Scott",
+        "Published Year": 1978
+    },
+    "Book_230": {
+        "Title": "Algorithm Design Vol 84",
+        "Author": "Paul Clark",
+        "Published Year": 1964
+    },
+    "Book_231": {
+        "Title": "Operating Systems Vol 71",
+        "Author": "Robert Anderson",
+        "Published Year": 2018
+    },
+    "Book_232": {
+        "Title": "Big Data Analytics Vol 66",
+        "Author": "William White",
+        "Published Year": 1970
+    },
+    "Book_233": {
+        "Title": "Operating Systems Vol 83",
+        "Author": "Richard Harris",
+        "Published Year": 2015
+    },
+    "Book_234": {
+        "Title": "Software Engineering Vol 95",
+        "Author": "Michael Brown",
+        "Published Year": 1933
+    },
+    "Book_235": {
+        "Title": "Linear Algebra Vol 63",
+        "Author": "Mark Hall",
+        "Published Year": 1963
+    },
+    "Book_236": {
+        "Title": "IoT Essentials Vol 72",
+        "Author": "Chris Johnson",
+        "Published Year": 1931
+    },
+    "Book_237": {
+        "Title": "Python Programming Vol 38",
+        "Author": "Chris Johnson",
+        "Published Year": 2010
+    },
+    "Book_238": {
+        "Title": "Electronics Basics Vol 44",
+        "Author": "William White",
+        "Published Year": 2002
+    },
+    "Book_239": {
+        "Title": "Project Management Vol 52",
+        "Author": "Patricia Wilson",
+        "Published Year": 1927
+    },
+    "Book_240": {
+        "Title": "Cryptography Vol 16",
+        "Author": "Emily Davis",
+        "Published Year": 1966
+    },
+    "Book_241": {
+        "Title": "E-Commerce Vol 27",
+        "Author": "Richard Harris",
+        "Published Year": 2007
+    },
+    "Book_242": {
+        "Title": "Parallel Computing Vol 75",
+        "Author": "Robert Anderson",
+        "Published Year": 1923
+    },
+    "Book_243": {
+        "Title": "Web Development Vol 38",
+        "Author": "John Doe",
+        "Published Year": 1926
+    },
+    "Book_244": {
+        "Title": "Statistics for Data Science Vol 35",
+        "Author": "Michael Brown",
+        "Published Year": 1983
+    },
+    "Book_245": {
+        "Title": "Machine Learning Vol 11",
+        "Author": "Robert Anderson",
+        "Published Year": 1924
+    },
+    "Book_246": {
+        "Title": "Augmented Reality Vol 22",
+        "Author": "Mark Hall",
+        "Published Year": 1947
+    },
+    "Book_247": {
+        "Title": "Calculus for Engineers Vol 84",
+        "Author": "Karen Young",
+        "Published Year": 1931
+    },
+    "Book_248": {
+        "Title": "Parallel Computing Vol 80",
+        "Author": "Mark Hall",
+        "Published Year": 1921
+    },
+    "Book_249": {
+        "Title": "Algorithm Design Vol 64",
+        "Author": "Chris Johnson",
+        "Published Year": 1983
+    },
+    "Book_250": {
+        "Title": "Programming in JavaScript Vol 28",
+        "Author": "Jane Smith",
+        "Published Year": 1913
+    },
+    "Book_251": {
+        "Title": "3D Printing Vol 33",
+        "Author": "Emily Davis",
+        "Published Year": 1964
+    },
+    "Book_252": {
+        "Title": "System Design Vol 20",
+        "Author": "Linda Thomas",
+        "Published Year": 1944
+    },
+    "Book_253": {
+        "Title": "Blockchain Basics Vol 84",
+        "Author": "Jessica Martin",
+        "Published Year": 1955
+    },
+    "Book_254": {
+        "Title": "UX/UI Design Vol 10",
+        "Author": "Lisa Allen",
+        "Published Year": 1922
+    },
+    "Book_255": {
+        "Title": "Big Data Analytics Vol 83",
+        "Author": "Emily Davis",
+        "Published Year": 2016
+    },
+    "Book_256": {
+        "Title": "System Design Vol 16",
+        "Author": "Paul Clark",
+        "Published Year": 1967
+    },
+    "Book_257": {
+        "Title": "Data Structures Vol 71",
+        "Author": "Robert Anderson",
+        "Published Year": 1931
+    },
+    "Book_258": {
+        "Title": "Big Data Analytics Vol 56",
+        "Author": "Karen Young",
+        "Published Year": 1986
+    },
+    "Book_259": {
+        "Title": "Computer Networks Vol 13",
+        "Author": "Karen Young",
+        "Published Year": 1907
+    },
+    "Book_260": {
+        "Title": "Mobile App Development Vol 20",
+        "Author": "Joseph Lee",
+        "Published Year": 1921
+    },
+    "Book_261": {
+        "Title": "Game Development Vol 98",
+        "Author": "Chris Johnson",
+        "Published Year": 2010
+    },
+    "Book_262": {
+        "Title": "DevOps Practices Vol 49",
+        "Author": "William White",
+        "Published Year": 1982
+    },
+    "Book_263": {
+        "Title": "Digital Signal Processing Vol 78",
+        "Author": "Jessica Martin",
+        "Published Year": 1976
+    },
+    "Book_264": {
+        "Title": "Statistics for Data Science Vol 36",
+        "Author": "Sophia Scott",
+        "Published Year": 1989
+    },
+    "Book_265": {
+        "Title": "Robotics Vol 4",
+        "Author": "John Doe",
+        "Published Year": 1912
+    },
+    "Book_266": {
+        "Title": "E-Commerce Vol 26",
+        "Author": "Patricia Wilson",
+        "Published Year": 1959
+    },
+    "Book_267": {
+        "Title": "IoT Essentials Vol 70",
+        "Author": "Jane Smith",
+        "Published Year": 1958
+    },
+    "Book_268": {
+        "Title": "Virtual Reality Vol 64",
+        "Author": "Karen Young",
+        "Published Year": 2011
+    },
+    "Book_269": {
+        "Title": "Deep Learning Vol 50",
+        "Author": "Joseph Lee",
+        "Published Year": 2020
+    },
+    "Book_270": {
+        "Title": "Algorithm Design Vol 100",
+        "Author": "Michael Brown",
+        "Published Year": 1942
+    },
+    "Book_271": {
+        "Title": "Compiler Design Vol 5",
+        "Author": "Jane Smith",
+        "Published Year": 2008
+    },
+    "Book_272": {
+        "Title": "Digital Signal Processing Vol 42",
+        "Author": "William White",
+        "Published Year": 1982
+    },
+    "Book_273": {
+        "Title": "Game Development Vol 66",
+        "Author": "Michael Brown",
+        "Published Year": 1974
+    },
+    "Book_274": {
+        "Title": "Quantum Computing Vol 11",
+        "Author": "John Doe",
+        "Published Year": 1992
+    },
+    "Book_275": {
+        "Title": "3D Printing Vol 91",
+        "Author": "Linda Thomas",
+        "Published Year": 1994
+    },
+    "Book_276": {
+        "Title": "Programming in JavaScript Vol 38",
+        "Author": "Robert Anderson",
+        "Published Year": 1988
+    },
+    "Book_277": {
+        "Title": "DevOps Practices Vol 48",
+        "Author": "Jane Smith",
+        "Published Year": 1951
+    },
+    "Book_278": {
+        "Title": "Software Engineering Vol 81",
+        "Author": "William White",
+        "Published Year": 1940
+    },
+    "Book_279": {
+        "Title": "Programming in C++ Vol 67",
+        "Author": "Joseph Lee",
+        "Published Year": 1906
+    },
+    "Book_280": {
+        "Title": "Mobile App Development Vol 82",
+        "Author": "Karen Young",
+        "Published Year": 2015
+    },
+    "Book_281": {
+        "Title": "Operating Systems Vol 98",
+        "Author": "Lisa Allen",
+        "Published Year": 1921
+    },
+    "Book_282": {
+        "Title": "Electronics Basics Vol 12",
+        "Author": "Paul Clark",
+        "Published Year": 2003
+    },
+    "Book_283": {
+        "Title": "3D Printing Vol 82",
+        "Author": "Jane Smith",
+        "Published Year": 2023
+    },
+    "Book_284": {
+        "Title": "Natural Language Processing Vol 13",
+        "Author": "Patricia Wilson",
+        "Published Year": 2011
+    },
+    "Book_285": {
+        "Title": "Blockchain Basics Vol 63",
+        "Author": "Lisa Allen",
+        "Published Year": 2022
+    },
+    "Book_286": {
+        "Title": "Robotics Vol 39",
+        "Author": "Patricia Wilson",
+        "Published Year": 1974
+    },
+    "Book_287": {
+        "Title": "E-Commerce Vol 1",
+        "Author": "Robert Anderson",
+        "Published Year": 1966
+    },
+    "Book_288": {
+        "Title": "Web Development Vol 74",
+        "Author": "Sophia Scott",
+        "Published Year": 1937
+    },
+    "Book_289": {
+        "Title": "Natural Language Processing Vol 34",
+        "Author": "Sophia Scott",
+        "Published Year": 1946
+    },
+    "Book_290": {
+        "Title": "Compiler Design Vol 34",
+        "Author": "Karen Young",
+        "Published Year": 1926
+    },
+    "Book_291": {
+        "Title": "Algorithm Design Vol 40",
+        "Author": "Mark Hall",
+        "Published Year": 1928
+    },
+    "Book_292": {
+        "Title": "Programming in Java Vol 37",
+        "Author": "Sophia Scott",
+        "Published Year": 1926
+    },
+    "Book_293": {
+        "Title": "Virtual Reality Vol 27",
+        "Author": "John Doe",
+        "Published Year": 1965
+    },
+    "Book_294": {
+        "Title": "Blockchain Basics Vol 90",
+        "Author": "Paul Clark",
+        "Published Year": 1951
+    },
+    "Book_295": {
+        "Title": "Algorithm Design Vol 54",
+        "Author": "Lisa Allen",
+        "Published Year": 2006
+    },
+    "Book_296": {
+        "Title": "Graphics Design Vol 40",
+        "Author": "Jessica Martin",
+        "Published Year": 1985
+    },
+    "Book_297": {
+        "Title": "Computer Networks Vol 50",
+        "Author": "Lisa Allen",
+        "Published Year": 1965
+    },
+    "Book_298": {
+        "Title": "Database Management Vol 25",
+        "Author": "Richard Harris",
+        "Published Year": 1943
+    },
+    "Book_299": {
+        "Title": "Data Structures Vol 52",
+        "Author": "Mark Hall",
+        "Published Year": 1944
+    },
+    "Book_300": {
+        "Title": "Computer Networks Vol 61",
+        "Author": "Sophia Scott",
+        "Published Year": 2010
+    },
+    "Book_301": {
+        "Title": "Programming in Java Vol 51",
+        "Author": "Emily Davis",
+        "Published Year": 1996
+    },
+    "Book_302": {
+        "Title": "Natural Language Processing Vol 26",
+        "Author": "Mark Hall",
+        "Published Year": 1950
+    },
+    "Book_303": {
+        "Title": "Software Testing Vol 82",
+        "Author": "William White",
+        "Published Year": 1914
+    },
+    "Book_304": {
+        "Title": "System Design Vol 43",
+        "Author": "Mark Hall",
+        "Published Year": 1996
+    },
+    "Book_305": {
+        "Title": "Linear Algebra Vol 21",
+        "Author": "Linda Thomas",
+        "Published Year": 2019
+    },
+    "Book_306": {
+        "Title": "Cryptography Vol 86",
+        "Author": "John Doe",
+        "Published Year": 2008
+    },
+    "Book_307": {
+        "Title": "Linear Algebra Vol 36",
+        "Author": "Lisa Allen",
+        "Published Year": 1912
+    },
+    "Book_308": {
+        "Title": "Cloud Computing Vol 57",
+        "Author": "Mark Hall",
+        "Published Year": 1958
+    },
+    "Book_309": {
+        "Title": "Data Science Vol 72",
+        "Author": "Michael Brown",
+        "Published Year": 1984
+    },
+    "Book_310": {
+        "Title": "Cryptography Vol 9",
+        "Author": "Lisa Allen",
+        "Published Year": 1949
+    },
+    "Book_311": {
+        "Title": "Mobile Security Vol 72",
+        "Author": "Sophia Scott",
+        "Published Year": 1970
+    },
+    "Book_312": {
+        "Title": "Software Testing Vol 6",
+        "Author": "Michael Brown",
+        "Published Year": 1980
+    },
+    "Book_313": {
+        "Title": "Graphics Design Vol 6",
+        "Author": "Lisa Allen",
+        "Published Year": 1998
+    },
+    "Book_314": {
+        "Title": "Compiler Design Vol 85",
+        "Author": "Sophia Scott",
+        "Published Year": 1949
+    },
+    "Book_315": {
+        "Title": "AI Ethics Vol 47",
+        "Author": "Jessica Martin",
+        "Published Year": 1910
+    },
+    "Book_316": {
+        "Title": "Mobile Security Vol 65",
+        "Author": "Jane Smith",
+        "Published Year": 2001
+    },
+    "Book_317": {
+        "Title": "Data Structures Vol 50",
+        "Author": "William White",
+        "Published Year": 1913
+    },
+    "Book_318": {
+        "Title": "Parallel Computing Vol 24",
+        "Author": "Jessica Martin",
+        "Published Year": 1937
+    },
+    "Book_319": {
+        "Title": "Software Engineering Vol 67",
+        "Author": "Lisa Allen",
+        "Published Year": 2017
+    },
+    "Book_320": {
+        "Title": "System Design Vol 63",
+        "Author": "Chris Johnson",
+        "Published Year": 1978
+    },
+    "Book_321": {
+        "Title": "Virtual Reality Vol 23",
+        "Author": "Sophia Scott",
+        "Published Year": 1965
+    },
+    "Book_322": {
+        "Title": "Natural Language Processing Vol 28",
+        "Author": "Emily Davis",
+        "Published Year": 1913
+    },
+    "Book_323": {
+        "Title": "Machine Learning Vol 30",
+        "Author": "Richard Harris",
+        "Published Year": 2010
+    },
+    "Book_324": {
+        "Title": "Edge Computing Vol 85",
+        "Author": "Robert Anderson",
+        "Published Year": 2000
+    },
+    "Book_325": {
+        "Title": "Statistics for Data Science Vol 11",
+        "Author": "Sarah Moore",
+        "Published Year": 1928
+    },
+    "Book_326": {
+        "Title": "Programming in C++ Vol 22",
+        "Author": "Paul Clark",
+        "Published Year": 1965
+    },
+    "Book_327": {
+        "Title": "Digital Signal Processing Vol 16",
+        "Author": "Mark Hall",
+        "Published Year": 1976
+    },
+    "Book_328": {
+        "Title": "Deep Learning Vol 25",
+        "Author": "Emily Davis",
+        "Published Year": 1972
+    },
+    "Book_329": {
+        "Title": "Parallel Computing Vol 9",
+        "Author": "Joseph Lee",
+        "Published Year": 2010
+    },
+    "Book_330": {
+        "Title": "Compiler Design Vol 48",
+        "Author": "Joseph Lee",
+        "Published Year": 2011
+    },
+    "Book_331": {
+        "Title": "Software Testing Vol 77",
+        "Author": "William White",
+        "Published Year": 1901
+    },
+    "Book_332": {
+        "Title": "Edge Computing Vol 73",
+        "Author": "Emily Davis",
+        "Published Year": 1935
+    },
+    "Book_333": {
+        "Title": "Web Development Vol 64",
+        "Author": "Michael Brown",
+        "Published Year": 1928
+    },
+    "Book_334": {
+        "Title": "Digital Marketing Vol 54",
+        "Author": "Joseph Lee",
+        "Published Year": 1906
+    },
+    "Book_335": {
+        "Title": "Calculus for Engineers Vol 47",
+        "Author": "John Doe",
+        "Published Year": 1923
+    },
+    "Book_336": {
+        "Title": "Data Science Vol 3",
+        "Author": "Patricia Wilson",
+        "Published Year": 2023
+    },
+    "Book_337": {
+        "Title": "AI Ethics Vol 80",
+        "Author": "Linda Thomas",
+        "Published Year": 1918
+    },
+    "Book_338": {
+        "Title": "Edge Computing Vol 48",
+        "Author": "Robert Anderson",
+        "Published Year": 1917
+    },
+    "Book_339": {
+        "Title": "Digital Signal Processing Vol 98",
+        "Author": "Richard Harris",
+        "Published Year": 1976
+    },
+    "Book_340": {
+        "Title": "Computer Networks Vol 54",
+        "Author": "Robert Anderson",
+        "Published Year": 1904
+    },
+    "Book_341": {
+        "Title": "Graphics Design Vol 76",
+        "Author": "Michael Brown",
+        "Published Year": 1939
+    },
+    "Book_342": {
+        "Title": "Quantum Computing Vol 20",
+        "Author": "Mark Hall",
+        "Published Year": 2002
+    },
+    "Book_343": {
+        "Title": "Quantum Computing Vol 39",
+        "Author": "Sarah Moore",
+        "Published Year": 2009
+    },
+    "Book_344": {
+        "Title": "Statistics for Data Science Vol 28",
+        "Author": "Paul Clark",
+        "Published Year": 1945
+    },
+    "Book_345": {
+        "Title": "Database Management Vol 19",
+        "Author": "Jessica Martin",
+        "Published Year": 2022
+    },
+    "Book_346": {
+        "Title": "AI Ethics Vol 39",
+        "Author": "Robert Anderson",
+        "Published Year": 1940
+    },
+    "Book_347": {
+        "Title": "Algorithm Design Vol 59",
+        "Author": "Patricia Wilson",
+        "Published Year": 1977
+    },
+    "Book_348": {
+        "Title": "Programming in Java Vol 68",
+        "Author": "Jane Smith",
+        "Published Year": 1915
+    },
+    "Book_349": {
+        "Title": "Programming in C++ Vol 33",
+        "Author": "Jessica Martin",
+        "Published Year": 1937
+    },
+    "Book_350": {
+        "Title": "Cloud Computing Vol 100",
+        "Author": "Chris Johnson",
+        "Published Year": 2015
+    },
+    "Book_351": {
+        "Title": "Game Development Vol 72",
+        "Author": "William White",
+        "Published Year": 1947
+    },
+    "Book_352": {
+        "Title": "Project Management Vol 28",
+        "Author": "Lisa Allen",
+        "Published Year": 1922
+    },
+    "Book_353": {
+        "Title": "Blockchain Basics Vol 55",
+        "Author": "Sophia Scott",
+        "Published Year": 2018
+    },
+    "Book_354": {
+        "Title": "IoT Essentials Vol 29",
+        "Author": "Lisa Allen",
+        "Published Year": 2011
+    },
+    "Book_355": {
+        "Title": "Embedded Systems Vol 14",
+        "Author": "Sarah Moore",
+        "Published Year": 1950
+    },
+    "Book_356": {
+        "Title": "Parallel Computing Vol 45",
+        "Author": "Sarah Moore",
+        "Published Year": 1964
+    },
+    "Book_357": {
+        "Title": "Data Structures Vol 16",
+        "Author": "Emily Davis",
+        "Published Year": 1975
+    },
+    "Book_358": {
+        "Title": "Quantum Computing Vol 76",
+        "Author": "Linda Thomas",
+        "Published Year": 1965
+    },
+    "Book_359": {
+        "Title": "Computer Networks Vol 77",
+        "Author": "Jessica Martin",
+        "Published Year": 1999
+    },
+    "Book_360": {
+        "Title": "E-Commerce Vol 70",
+        "Author": "Patricia Wilson",
+        "Published Year": 2017
+    },
+    "Book_361": {
+        "Title": "AI Ethics Vol 37",
+        "Author": "John Doe",
+        "Published Year": 1902
+    },
+    "Book_362": {
+        "Title": "Statistics for Data Science Vol 63",
+        "Author": "Richard Harris",
+        "Published Year": 1934
+    },
+    "Book_363": {
+        "Title": "Machine Learning Vol 79",
+        "Author": "John Doe",
+        "Published Year": 2011
+    },
+    "Book_364": {
+        "Title": "Project Management Vol 11",
+        "Author": "Jessica Martin",
+        "Published Year": 1996
+    },
+    "Book_365": {
+        "Title": "E-Commerce Vol 25",
+        "Author": "Jane Smith",
+        "Published Year": 2006
+    },
+    "Book_366": {
+        "Title": "3D Printing Vol 83",
+        "Author": "Jessica Martin",
+        "Published Year": 1979
+    },
+    "Book_367": {
+        "Title": "Cyber Security Vol 99",
+        "Author": "Robert Anderson",
+        "Published Year": 1935
+    },
+    "Book_368": {
+        "Title": "System Design Vol 79",
+        "Author": "Lisa Allen",
+        "Published Year": 2002
+    },
+    "Book_369": {
+        "Title": "Statistics for Data Science Vol 20",
+        "Author": "Paul Clark",
+        "Published Year": 1930
+    },
+    "Book_370": {
+        "Title": "Big Data Analytics Vol 47",
+        "Author": "Linda Thomas",
+        "Published Year": 1984
+    },
+    "Book_371": {
+        "Title": "Programming in JavaScript Vol 39",
+        "Author": "William White",
+        "Published Year": 1922
+    },
+    "Book_372": {
+        "Title": "Graphics Design Vol 32",
+        "Author": "Jane Smith",
+        "Published Year": 2019
+    },
+    "Book_373": {
+        "Title": "Machine Learning Vol 23",
+        "Author": "Jane Smith",
+        "Published Year": 1935
+    },
+    "Book_374": {
+        "Title": "Augmented Reality Vol 88",
+        "Author": "Joseph Lee",
+        "Published Year": 1960
+    },
+    "Book_375": {
+        "Title": "DevOps Practices Vol 85",
+        "Author": "Emily Davis",
+        "Published Year": 1944
+    },
+    "Book_376": {
+        "Title": "Database Management Vol 77",
+        "Author": "Jane Smith",
+        "Published Year": 1900
+    },
+    "Book_377": {
+        "Title": "Linear Algebra Vol 41",
+        "Author": "Michael Brown",
+        "Published Year": 1918
+    },
+    "Book_378": {
+        "Title": "Parallel Computing Vol 70",
+        "Author": "Richard Harris",
+        "Published Year": 1914
+    },
+    "Book_379": {
+        "Title": "Functional Programming Vol 83",
+        "Author": "Chris Johnson",
+        "Published Year": 1954
+    },
+    "Book_380": {
+        "Title": "Game Development Vol 14",
+        "Author": "John Doe",
+        "Published Year": 1940
+    },
+    "Book_381": {
+        "Title": "Computer Vision Vol 73",
+        "Author": "Richard Harris",
+        "Published Year": 1996
+    },
+    "Book_382": {
+        "Title": "Digital Signal Processing Vol 39",
+        "Author": "William White",
+        "Published Year": 2022
+    },
+    "Book_383": {
+        "Title": "Programming in JavaScript Vol 6",
+        "Author": "Patricia Wilson",
+        "Published Year": 1975
+    },
+    "Book_384": {
+        "Title": "Edge Computing Vol 34",
+        "Author": "Sophia Scott",
+        "Published Year": 1993
+    },
+    "Book_385": {
+        "Title": "Compiler Design Vol 6",
+        "Author": "Richard Harris",
+        "Published Year": 1920
+    },
+    "Book_386": {
+        "Title": "Electronics Basics Vol 100",
+        "Author": "Paul Clark",
+        "Published Year": 1960
+    },
+    "Book_387": {
+        "Title": "Algorithm Design Vol 3",
+        "Author": "Robert Anderson",
+        "Published Year": 1953
+    },
+    "Book_388": {
+        "Title": "Virtual Reality Vol 28",
+        "Author": "Chris Johnson",
+        "Published Year": 2001
+    },
+    "Book_389": {
+        "Title": "Deep Learning Vol 51",
+        "Author": "Karen Young",
+        "Published Year": 1958
+    },
+    "Book_390": {
+        "Title": "Quantum Computing Vol 21",
+        "Author": "John Doe",
+        "Published Year": 1953
+    },
+    "Book_391": {
+        "Title": "Project Management Vol 95",
+        "Author": "Jessica Martin",
+        "Published Year": 1935
+    },
+    "Book_392": {
+        "Title": "Calculus for Engineers Vol 11",
+        "Author": "Emily Davis",
+        "Published Year": 1977
+    },
+    "Book_393": {
+        "Title": "Functional Programming Vol 21",
+        "Author": "Sophia Scott",
+        "Published Year": 1951
+    },
+    "Book_394": {
+        "Title": "Robotics Vol 41",
+        "Author": "Jane Smith",
+        "Published Year": 2014
+    },
+    "Book_395": {
+        "Title": "Robotics Vol 43",
+        "Author": "Patricia Wilson",
+        "Published Year": 1924
+    },
+    "Book_396": {
+        "Title": "Data Science Vol 28",
+        "Author": "Patricia Wilson",
+        "Published Year": 1912
+    },
+    "Book_397": {
+        "Title": "Robotics Vol 69",
+        "Author": "Sophia Scott",
+        "Published Year": 1996
+    },
+    "Book_398": {
+        "Title": "Data Science Vol 82",
+        "Author": "Sophia Scott",
+        "Published Year": 1943
+    },
+    "Book_399": {
+        "Title": "Machine Learning Vol 1",
+        "Author": "Jane Smith",
+        "Published Year": 1933
+    },
+    "Book_400": {
+        "Title": "E-Commerce Vol 45",
+        "Author": "Joseph Lee",
+        "Published Year": 1989
+    },
+    "Book_401": {
+        "Title": "Augmented Reality Vol 92",
+        "Author": "Emily Davis",
+        "Published Year": 2008
+    },
+    "Book_402": {
+        "Title": "Robotics Vol 86",
+        "Author": "Patricia Wilson",
+        "Published Year": 2013
+    },
+    "Book_403": {
+        "Title": "Data Science Vol 46",
+        "Author": "Mark Hall",
+        "Published Year": 1949
+    },
+    "Book_404": {
+        "Title": "Quantum Computing Vol 86",
+        "Author": "John Doe",
+        "Published Year": 1964
+    },
+    "Book_405": {
+        "Title": "Programming in JavaScript Vol 67",
+        "Author": "Sophia Scott",
+        "Published Year": 1934
+    },
+    "Book_406": {
+        "Title": "Embedded Systems Vol 50",
+        "Author": "Mark Hall",
+        "Published Year": 1930
+    },
+    "Book_407": {
+        "Title": "Software Engineering Vol 55",
+        "Author": "Linda Thomas",
+        "Published Year": 1907
+    },
+    "Book_408": {
+        "Title": "Cloud Computing Vol 64",
+        "Author": "Joseph Lee",
+        "Published Year": 1998
+    },
+    "Book_409": {
+        "Title": "Calculus for Engineers Vol 94",
+        "Author": "William White",
+        "Published Year": 1949
+    },
+    "Book_410": {
+        "Title": "Project Management Vol 33",
+        "Author": "Lisa Allen",
+        "Published Year": 1921
+    },
+    "Book_411": {
+        "Title": "Artificial Intelligence Vol 44",
+        "Author": "Jane Smith",
+        "Published Year": 1947
+    },
+    "Book_412": {
+        "Title": "Cloud Computing Vol 78",
+        "Author": "Jane Smith",
+        "Published Year": 1958
+    },
+    "Book_413": {
+        "Title": "Programming in JavaScript Vol 98",
+        "Author": "Sarah Moore",
+        "Published Year": 1903
+    },
+    "Book_414": {
+        "Title": "Project Management Vol 99",
+        "Author": "John Doe",
+        "Published Year": 1990
+    },
+    "Book_415": {
+        "Title": "Digital Signal Processing Vol 34",
+        "Author": "Michael Brown",
+        "Published Year": 1914
+    },
+    "Book_416": {
+        "Title": "Software Testing Vol 81",
+        "Author": "Lisa Allen",
+        "Published Year": 2006
+    },
+    "Book_417": {
+        "Title": "Operating Systems Vol 95",
+        "Author": "Lisa Allen",
+        "Published Year": 1915
+    },
+    "Book_418": {
+        "Title": "Programming in C++ Vol 11",
+        "Author": "John Doe",
+        "Published Year": 1995
+    },
+    "Book_419": {
+        "Title": "Deep Learning Vol 72",
+        "Author": "Michael Brown",
+        "Published Year": 1952
+    },
+    "Book_420": {
+        "Title": "Natural Language Processing Vol 60",
+        "Author": "Richard Harris",
+        "Published Year": 2019
+    },
+    "Book_421": {
+        "Title": "Algorithm Design Vol 80",
+        "Author": "Joseph Lee",
+        "Published Year": 1951
+    },
+    "Book_422": {
+        "Title": "Mobile Security Vol 16",
+        "Author": "John Doe",
+        "Published Year": 2017
+    },
+    "Book_423": {
+        "Title": "Blockchain Basics Vol 41",
+        "Author": "Linda Thomas",
+        "Published Year": 2006
+    },
+    "Book_424": {
+        "Title": "Functional Programming Vol 65",
+        "Author": "Karen Young",
+        "Published Year": 1977
+    },
+    "Book_425": {
+        "Title": "Python Programming Vol 86",
+        "Author": "Sarah Moore",
+        "Published Year": 1975
+    },
+    "Book_426": {
+        "Title": "AI Ethics Vol 45",
+        "Author": "Chris Johnson",
+        "Published Year": 1959
+    },
+    "Book_427": {
+        "Title": "UX/UI Design Vol 91",
+        "Author": "Lisa Allen",
+        "Published Year": 1990
+    },
+    "Book_428": {
+        "Title": "Blockchain Basics Vol 7",
+        "Author": "Joseph Lee",
+        "Published Year": 1998
+    },
+    "Book_429": {
+        "Title": "Quantum Computing Vol 87",
+        "Author": "Chris Johnson",
+        "Published Year": 1939
+    },
+    "Book_430": {
+        "Title": "Bioinformatics Vol 88",
+        "Author": "William White",
+        "Published Year": 1935
+    },
+    "Book_431": {
+        "Title": "3D Printing Vol 16",
+        "Author": "Emily Davis",
+        "Published Year": 1979
+    },
+    "Book_432": {
+        "Title": "Cryptography Vol 3",
+        "Author": "Emily Davis",
+        "Published Year": 1929
+    },
+    "Book_433": {
+        "Title": "Digital Signal Processing Vol 12",
+        "Author": "Sarah Moore",
+        "Published Year": 1966
+    },
+    "Book_434": {
+        "Title": "System Design Vol 65",
+        "Author": "Michael Brown",
+        "Published Year": 1917
+    },
+    "Book_435": {
+        "Title": "Embedded Systems Vol 9",
+        "Author": "Mark Hall",
+        "Published Year": 2022
+    },
+    "Book_436": {
+        "Title": "Functional Programming Vol 23",
+        "Author": "Linda Thomas",
+        "Published Year": 1923
+    },
+    "Book_437": {
+        "Title": "Big Data Analytics Vol 90",
+        "Author": "Linda Thomas",
+        "Published Year": 1955
+    },
+    "Book_438": {
+        "Title": "Game Development Vol 2",
+        "Author": "Richard Harris",
+        "Published Year": 1928
+    },
+    "Book_439": {
+        "Title": "Edge Computing Vol 98",
+        "Author": "Karen Young",
+        "Published Year": 1933
+    },
+    "Book_440": {
+        "Title": "Data Structures Vol 40",
+        "Author": "Linda Thomas",
+        "Published Year": 1966
+    },
+    "Book_441": {
+        "Title": "Blockchain Basics Vol 11",
+        "Author": "Mark Hall",
+        "Published Year": 1933
+    },
+    "Book_442": {
+        "Title": "Operating Systems Vol 100",
+        "Author": "Robert Anderson",
+        "Published Year": 1947
+    },
+    "Book_443": {
+        "Title": "Digital Marketing Vol 51",
+        "Author": "Jane Smith",
+        "Published Year": 1958
+    },
+    "Book_444": {
+        "Title": "Cloud Computing Vol 71",
+        "Author": "Karen Young",
+        "Published Year": 1990
+    },
+    "Book_445": {
+        "Title": "Embedded Systems Vol 47",
+        "Author": "Chris Johnson",
+        "Published Year": 1981
+    },
+    "Book_446": {
+        "Title": "System Design Vol 80",
+        "Author": "Jessica Martin",
+        "Published Year": 1987
+    },
+    "Book_447": {
+        "Title": "Data Structures Vol 88",
+        "Author": "Lisa Allen",
+        "Published Year": 2014
+    },
+    "Book_448": {
+        "Title": "Software Engineering Vol 37",
+        "Author": "Joseph Lee",
+        "Published Year": 1948
+    },
+    "Book_449": {
+        "Title": "Electronics Basics Vol 54",
+        "Author": "Richard Harris",
+        "Published Year": 2015
+    },
+    "Book_450": {
+        "Title": "Linear Algebra Vol 100",
+        "Author": "Karen Young",
+        "Published Year": 1946
+    },
+    "Book_451": {
+        "Title": "Data Science Vol 91",
+        "Author": "Michael Brown",
+        "Published Year": 1960
+    },
+    "Book_452": {
+        "Title": "Functional Programming Vol 80",
+        "Author": "John Doe",
+        "Published Year": 1910
+    },
+    "Book_453": {
+        "Title": "Machine Learning Vol 37",
+        "Author": "Mark Hall",
+        "Published Year": 1935
+    },
+    "Book_454": {
+        "Title": "Digital Signal Processing Vol 25",
+        "Author": "Robert Anderson",
+        "Published Year": 1951
+    },
+    "Book_455": {
+        "Title": "Web Development Vol 75",
+        "Author": "Lisa Allen",
+        "Published Year": 2003
+    },
+    "Book_456": {
+        "Title": "Functional Programming Vol 86",
+        "Author": "Patricia Wilson",
+        "Published Year": 1978
+    },
+    "Book_457": {
+        "Title": "Game Development Vol 30",
+        "Author": "Patricia Wilson",
+        "Published Year": 1956
+    },
+    "Book_458": {
+        "Title": "Digital Marketing Vol 37",
+        "Author": "Jane Smith",
+        "Published Year": 1983
+    },
+    "Book_459": {
+        "Title": "Cyber Security Vol 68",
+        "Author": "Patricia Wilson",
+        "Published Year": 1979
+    },
+    "Book_460": {
+        "Title": "Cyber Security Vol 9",
+        "Author": "Richard Harris",
+        "Published Year": 1982
+    },
+    "Book_461": {
+        "Title": "Algorithm Design Vol 53",
+        "Author": "Paul Clark",
+        "Published Year": 2017
+    },
+    "Book_462": {
+        "Title": "Cyber Security Vol 77",
+        "Author": "John Doe",
+        "Published Year": 1950
+    },
+    "Book_463": {
+        "Title": "Natural Language Processing Vol 65",
+        "Author": "Sophia Scott",
+        "Published Year": 1995
+    },
+    "Book_464": {
+        "Title": "Machine Learning Vol 7",
+        "Author": "Jane Smith",
+        "Published Year": 1996
+    },
+    "Book_465": {
+        "Title": "Bioinformatics Vol 20",
+        "Author": "John Doe",
+        "Published Year": 1988
+    },
+    "Book_466": {
+        "Title": "Web Development Vol 29",
+        "Author": "Joseph Lee",
+        "Published Year": 1986
+    },
+    "Book_467": {
+        "Title": "Machine Learning Vol 58",
+        "Author": "Linda Thomas",
+        "Published Year": 1931
+    },
+    "Book_468": {
+        "Title": "Electronics Basics Vol 85",
+        "Author": "Lisa Allen",
+        "Published Year": 1958
+    },
+    "Book_469": {
+        "Title": "Software Testing Vol 93",
+        "Author": "Paul Clark",
+        "Published Year": 1950
+    },
+    "Book_470": {
+        "Title": "DevOps Practices Vol 17",
+        "Author": "Robert Anderson",
+        "Published Year": 1957
+    },
+    "Book_471": {
+        "Title": "Cloud Computing Vol 8",
+        "Author": "Richard Harris",
+        "Published Year": 1913
+    },
+    "Book_472": {
+        "Title": "Database Management Vol 44",
+        "Author": "Jessica Martin",
+        "Published Year": 1967
+    },
+    "Book_473": {
+        "Title": "Mobile App Development Vol 17",
+        "Author": "Sophia Scott",
+        "Published Year": 1989
+    },
+    "Book_474": {
+        "Title": "IoT Essentials Vol 77",
+        "Author": "Sophia Scott",
+        "Published Year": 1981
+    },
+    "Book_475": {
+        "Title": "Python Programming Vol 29",
+        "Author": "John Doe",
+        "Published Year": 2022
+    },
+    "Book_476": {
+        "Title": "Computer Vision Vol 71",
+        "Author": "Joseph Lee",
+        "Published Year": 2009
+    },
+    "Book_477": {
+        "Title": "System Design Vol 77",
+        "Author": "Joseph Lee",
+        "Published Year": 1923
+    },
+    "Book_478": {
+        "Title": "Electronics Basics Vol 66",
+        "Author": "Sarah Moore",
+        "Published Year": 2018
+    },
+    "Book_479": {
+        "Title": "Calculus for Engineers Vol 100",
+        "Author": "Jessica Martin",
+        "Published Year": 1997
+    },
+    "Book_480": {
+        "Title": "Game Development Vol 89",
+        "Author": "Sarah Moore",
+        "Published Year": 2009
+    },
+    "Book_481": {
+        "Title": "Project Management Vol 86",
+        "Author": "Richard Harris",
+        "Published Year": 1956
+    },
+    "Book_482": {
+        "Title": "IoT Essentials Vol 38",
+        "Author": "Emily Davis",
+        "Published Year": 2011
+    },
+    "Book_483": {
+        "Title": "Digital Signal Processing Vol 44",
+        "Author": "Chris Johnson",
+        "Published Year": 1973
+    },
+    "Book_484": {
+        "Title": "Graphics Design Vol 68",
+        "Author": "Linda Thomas",
+        "Published Year": 1937
+    },
+    "Book_485": {
+        "Title": "Statistics for Data Science Vol 98",
+        "Author": "Paul Clark",
+        "Published Year": 1917
+    },
+    "Book_486": {
+        "Title": "Artificial Intelligence Vol 54",
+        "Author": "Lisa Allen",
+        "Published Year": 1944
+    },
+    "Book_487": {
+        "Title": "Quantum Computing Vol 27",
+        "Author": "Michael Brown",
+        "Published Year": 1921
+    },
+    "Book_488": {
+        "Title": "Graphics Design Vol 50",
+        "Author": "Sophia Scott",
+        "Published Year": 1972
+    },
+    "Book_489": {
+        "Title": "Data Structures Vol 67",
+        "Author": "Jane Smith",
+        "Published Year": 2007
+    },
+    "Book_490": {
+        "Title": "Computer Vision Vol 43",
+        "Author": "Joseph Lee",
+        "Published Year": 1939
+    },
+    "Book_491": {
+        "Title": "Cyber Security Vol 61",
+        "Author": "Mark Hall",
+        "Published Year": 2008
+    },
+    "Book_492": {
+        "Title": "Cloud Computing Vol 27",
+        "Author": "Sarah Moore",
+        "Published Year": 1978
+    },
+    "Book_493": {
+        "Title": "E-Commerce Vol 82",
+        "Author": "William White",
+        "Published Year": 2006
+    },
+    "Book_494": {
+        "Title": "Mobile Security Vol 57",
+        "Author": "Karen Young",
+        "Published Year": 1961
+    },
+    "Book_495": {
+        "Title": "Digital Signal Processing Vol 59",
+        "Author": "Robert Anderson",
+        "Published Year": 1972
+    },
+    "Book_496": {
+        "Title": "Project Management Vol 5",
+        "Author": "Mark Hall",
+        "Published Year": 1914
+    },
+    "Book_497": {
+        "Title": "Calculus for Engineers Vol 35",
+        "Author": "Mark Hall",
+        "Published Year": 2016
+    },
+    "Book_498": {
+        "Title": "Bioinformatics Vol 49",
+        "Author": "Patricia Wilson",
+        "Published Year": 1909
+    },
+    "Book_499": {
+        "Title": "Programming in Java Vol 88",
+        "Author": "Robert Anderson",
+        "Published Year": 1923
+    },
+    "Book_500": {
+        "Title": "AI Ethics Vol 89",
+        "Author": "Sophia Scott",
+        "Published Year": 2016
+    },
+    "Book_501": {
+        "Title": "E-Commerce Vol 13",
+        "Author": "Michael Brown",
+        "Published Year": 1903
+    },
+    "Book_502": {
+        "Title": "Quantum Computing Vol 29",
+        "Author": "Richard Harris",
+        "Published Year": 1998
+    },
+    "Book_503": {
+        "Title": "Operating Systems Vol 62",
+        "Author": "William White",
+        "Published Year": 1906
+    },
+    "Book_504": {
+        "Title": "Robotics Vol 59",
+        "Author": "Robert Anderson",
+        "Published Year": 1987
+    },
+    "Book_505": {
+        "Title": "UX/UI Design Vol 1",
+        "Author": "Jessica Martin",
+        "Published Year": 1935
+    },
+    "Book_506": {
+        "Title": "Computer Networks Vol 27",
+        "Author": "Paul Clark",
+        "Published Year": 1950
+    },
+    "Book_507": {
+        "Title": "Calculus for Engineers Vol 87",
+        "Author": "Jessica Martin",
+        "Published Year": 1909
+    },
+    "Book_508": {
+        "Title": "Cryptography Vol 14",
+        "Author": "Lisa Allen",
+        "Published Year": 2010
+    },
+    "Book_509": {
+        "Title": "Programming in C++ Vol 47",
+        "Author": "Karen Young",
+        "Published Year": 2022
+    },
+    "Book_510": {
+        "Title": "Programming in Java Vol 14",
+        "Author": "Karen Young",
+        "Published Year": 1911
+    },
+    "Book_511": {
+        "Title": "Parallel Computing Vol 22",
+        "Author": "Richard Harris",
+        "Published Year": 1983
+    },
+    "Book_512": {
+        "Title": "Virtual Reality Vol 86",
+        "Author": "Lisa Allen",
+        "Published Year": 2014
+    },
+    "Book_513": {
+        "Title": "Graphics Design Vol 64",
+        "Author": "Richard Harris",
+        "Published Year": 2023
+    },
+    "Book_514": {
+        "Title": "Cyber Security Vol 69",
+        "Author": "Paul Clark",
+        "Published Year": 1956
+    },
+    "Book_515": {
+        "Title": "Compiler Design Vol 44",
+        "Author": "Karen Young",
+        "Published Year": 2016
+    },
+    "Book_516": {
+        "Title": "Software Testing Vol 95",
+        "Author": "Mark Hall",
+        "Published Year": 2011
+    },
+    "Book_517": {
+        "Title": "Edge Computing Vol 2",
+        "Author": "Mark Hall",
+        "Published Year": 1948
+    },
+    "Book_518": {
+        "Title": "Augmented Reality Vol 61",
+        "Author": "John Doe",
+        "Published Year": 1995
+    },
+    "Book_519": {
+        "Title": "Blockchain Basics Vol 97",
+        "Author": "Karen Young",
+        "Published Year": 1940
+    },
+    "Book_520": {
+        "Title": "E-Commerce Vol 57",
+        "Author": "Robert Anderson",
+        "Published Year": 1926
+    },
+    "Book_521": {
+        "Title": "Big Data Analytics Vol 22",
+        "Author": "Jane Smith",
+        "Published Year": 2020
+    },
+    "Book_522": {
+        "Title": "System Design Vol 45",
+        "Author": "Karen Young",
+        "Published Year": 1962
+    },
+    "Book_523": {
+        "Title": "Digital Signal Processing Vol 61",
+        "Author": "Mark Hall",
+        "Published Year": 1940
+    },
+    "Book_524": {
+        "Title": "Big Data Analytics Vol 91",
+        "Author": "Sarah Moore",
+        "Published Year": 1950
+    },
+    "Book_525": {
+        "Title": "Data Structures Vol 3",
+        "Author": "Joseph Lee",
+        "Published Year": 2003
+    },
+    "Book_526": {
+        "Title": "Software Testing Vol 58",
+        "Author": "Jessica Martin",
+        "Published Year": 1950
+    },
+    "Book_527": {
+        "Title": "Functional Programming Vol 52",
+        "Author": "Emily Davis",
+        "Published Year": 1958
+    },
+    "Book_528": {
+        "Title": "Virtual Reality Vol 33",
+        "Author": "Jessica Martin",
+        "Published Year": 1959
+    },
+    "Book_529": {
+        "Title": "Data Structures Vol 29",
+        "Author": "Paul Clark",
+        "Published Year": 2006
+    },
+    "Book_530": {
+        "Title": "Augmented Reality Vol 2",
+        "Author": "Karen Young",
+        "Published Year": 1969
+    },
+    "Book_531": {
+        "Title": "AI Ethics Vol 12",
+        "Author": "Jane Smith",
+        "Published Year": 1946
+    },
+    "Book_532": {
+        "Title": "Software Engineering Vol 80",
+        "Author": "Richard Harris",
+        "Published Year": 1936
+    },
+    "Book_533": {
+        "Title": "3D Printing Vol 54",
+        "Author": "Sarah Moore",
+        "Published Year": 1918
+    },
+    "Book_534": {
+        "Title": "System Design Vol 15",
+        "Author": "Mark Hall",
+        "Published Year": 2001
+    },
+    "Book_535": {
+        "Title": "IoT Essentials Vol 86",
+        "Author": "Chris Johnson",
+        "Published Year": 1901
+    },
+    "Book_536": {
+        "Title": "Computer Networks Vol 34",
+        "Author": "Emily Davis",
+        "Published Year": 1903
+    },
+    "Book_537": {
+        "Title": "Big Data Analytics Vol 43",
+        "Author": "William White",
+        "Published Year": 1957
+    },
+    "Book_538": {
+        "Title": "Data Structures Vol 33",
+        "Author": "Emily Davis",
+        "Published Year": 1937
+    },
+    "Book_539": {
+        "Title": "Functional Programming Vol 35",
+        "Author": "Patricia Wilson",
+        "Published Year": 1956
+    },
+    "Book_540": {
+        "Title": "Game Development Vol 53",
+        "Author": "John Doe",
+        "Published Year": 1992
+    },
+    "Book_541": {
+        "Title": "Deep Learning Vol 73",
+        "Author": "Patricia Wilson",
+        "Published Year": 1974
+    },
+    "Book_542": {
+        "Title": "UX/UI Design Vol 58",
+        "Author": "Lisa Allen",
+        "Published Year": 1934
+    },
+    "Book_543": {
+        "Title": "Game Development Vol 43",
+        "Author": "Emily Davis",
+        "Published Year": 1953
+    },
+    "Book_544": {
+        "Title": "Functional Programming Vol 57",
+        "Author": "Robert Anderson",
+        "Published Year": 1927
+    },
+    "Book_545": {
+        "Title": "Mobile Security Vol 23",
+        "Author": "Karen Young",
+        "Published Year": 1913
+    },
+    "Book_546": {
+        "Title": "Functional Programming Vol 34",
+        "Author": "Mark Hall",
+        "Published Year": 1969
+    },
+    "Book_547": {
+        "Title": "UX/UI Design Vol 13",
+        "Author": "Linda Thomas",
+        "Published Year": 1944
+    },
+    "Book_548": {
+        "Title": "Cloud Computing Vol 28",
+        "Author": "Emily Davis",
+        "Published Year": 1962
+    },
+    "Book_549": {
+        "Title": "Linear Algebra Vol 66",
+        "Author": "Jane Smith",
+        "Published Year": 2001
+    },
+    "Book_550": {
+        "Title": "Deep Learning Vol 6",
+        "Author": "Jessica Martin",
+        "Published Year": 1945
+    }
+}
