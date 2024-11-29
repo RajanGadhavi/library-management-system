@@ -32,12 +32,8 @@ def addNewUser(name, bookUserWant):
         }
     ref_users_data.update(newUser)
     
-# "this function greet user"
-def greetigs(name):
-     print(f"Hello!{name} how are you?")
-
-#"This function will update user data"     
-def updateingUsers(name,bookUserWant):
+#"This function will update user data when user borrow book"     
+def userBorrowBook(name,bookUserWant):
     usersData = ref_users_data.get()
     for userId, userInfo in usersData.items():
         if userInfo['name'] == name:
@@ -63,14 +59,27 @@ def borrowBook(name,bookUserWant):
             ref_delet_book = db.reference(f'AvailableBooks/BookData/{bookid}')
             ref_delet_book.delete()
             
-            updateingUsers(name, bookUserWant)
+            userBorrowBook(name, bookUserWant)
             break
                 
     if not bookFound:
         print(f"We do not have {bookUserWant} Sorry!")
-        
+
+#"Updateing user info when user return book"
+def userReturnBook(bookUserReturn):  
+    usersData = ref_users_data.get()
+    for userId, userInfo in usersData.items():
+        if userInfo['book'] == bookUserReturn:
+            userRef = db.reference(f'Users/UsersData/{userId}')
+            userRef.update({
+                "book" : "none"
+            })
+            break
+        else:
+            break    
+ 
 # "this function is for retruning book"
-def returnBook():
+def returnBook(name,bookUserWant):
     bookUserReturn = input("Which book are you going to return ? : ")
     ref_all_book = db.reference('AllBookData')
     Alldata = ref_all_book.get()
@@ -81,9 +90,10 @@ def returnBook():
         if bookinfo["Title"] == bookUserReturn:
             copiedValue = {bookid : bookinfo}
             ref_available_book.update(copiedValue)
+            userReturnBook(bookUserReturn)
             foundBook = True
             print("Thank you visit us again")
-        
+            
     if not foundBook:
         randomBookId = random.randint(600,1000)
         randomYear = random.randint(1900,2000)
@@ -95,14 +105,15 @@ def returnBook():
                 "Published Year" : randomYear
                 }
             }
-        print(newBook)
         ref_available_book.update(newBook)
         print("Thank you visit us again")
-                    
+        addNewUser(name,bookUserWant)
+returnBook("Julia","HT")        
+            
 # "main functon" 
 def main():
     name = str(input("Please eneter your name : "))
-    greetigs(name)
+    print(f" Hello {name}! How are you! ")
     while True:
         try:
             userChoice = int(input("1.Continue\n2.Quite : "))
@@ -115,7 +126,8 @@ def main():
                         bookUserWant = input("Which book do you want ? : ")
                         borrowBook(name,bookUserWant)
                     elif userInput == 2:
-                        returnBook()
+                        bookUserWant = ""
+                        returnBook(name,bookUserWant)
                     elif userInput == 3:
                         pass
                     elif userInput == 4:
@@ -132,4 +144,4 @@ def main():
         except ValueError:
             print("Please type number only 1,2")
 
-main()
+#main()
