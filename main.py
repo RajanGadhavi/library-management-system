@@ -11,8 +11,7 @@ firebase_admin.initialize_app(cred, {
 })
     
 ref_available_book = db.reference('AvailableBooks')
-
-ref_users_data = db.reference('Users')
+ref_users_data = db.reference('Users/UsersData')
 
 # "this function is to print list of books" 
 def showAvailableBooks():
@@ -36,7 +35,20 @@ def addNewUser(name, bookUserWant):
 # "this function greet user"
 def greetigs(name):
      print(f"Hello!{name} how are you?")
-     showAvailableBooks()
+
+#"This function will update user data"     
+def updateingUsers(name,bookUserWant):
+    usersData = ref_users_data.get()
+    for userId, userInfo in usersData.items():
+        if userInfo['name'] == name:
+            userRef = db.reference(f'Users/UsersData/{userId}')
+            userRef.update({
+                "book" : bookUserWant
+            })
+            break
+        else:
+            addNewUser(name,bookUserWant)
+            break
 
 #function that handel borrowing book
 def borrowBook(name,bookUserWant):
@@ -47,10 +59,13 @@ def borrowBook(name,bookUserWant):
         if bookinfo['Title'] == bookUserWant:
             bookFound = True
             print(f"Thank you {name}! you have to return {bookinfo['Title']} in 30 days")
-            addNewUser(name,bookUserWant)           
-            ref_available_book.child(f"{bookid}").delete()
+            
+            ref_delet_book = db.reference(f'AvailableBooks/BookData/{bookid}')
+            ref_delet_book.delete()
+            
+            updateingUsers(name, bookUserWant)
             break
-        
+                
     if not bookFound:
         print(f"We do not have {bookUserWant} Sorry!")
         
@@ -86,15 +101,17 @@ def returnBook():
                     
 # "main functon" 
 def main():
+    name = str(input("Please eneter your name : "))
+    greetigs(name)
     while True:
         try:
             userChoice = int(input("1.Continue\n2.Quite : "))
             if userChoice == 1:
-                name = str(input("Please eneter your name : "))
                 print("What would you like to do?")
                 try:
                     userInput = int(input("1.Borrow Book\n2.Return Book\n3.User Profile\n4.Quite : "))
                     if userInput == 1:
+                        showAvailableBooks()
                         bookUserWant = input("Which book do you want ? : ")
                         borrowBook(name,bookUserWant)
                     elif userInput == 2:
