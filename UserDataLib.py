@@ -3,7 +3,7 @@ import firebase_admin
 from firebase_admin import credentials, db, firestore 
 
 #Firebase here
-cred = credentials.Certificate(r"D:\Data\Python\New Begging\library-management-system\cred.json") 
+cred = credentials.Certificate("cred.json") 
 firebase_admin.initialize_app(cred, {
     'databaseURL': "https://onlib-f4bf7-default-rtdb.firebaseio.com/"
 })
