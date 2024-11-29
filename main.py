@@ -15,7 +15,8 @@ data = ref.get()
 # "this function is to print list of books" 
 def showAvailableBooks():
     for bookid, bookinfo in data["BookData"].items():
-        print(f"{bookinfo['Title']} by {bookinfo['Author']} and id is {bookid}")
+        print("Here is the list of available books")
+        print(f"{bookinfo['Title']} by {bookinfo['Author']}")
         
 # "this function greet user"
 def greetigs(name):
@@ -31,9 +32,6 @@ def borrowBook():
             refForBorrow.delete()
         elif bookinfo['Title'] != bookUserWant:
             print(f"We do not have {bookUserWant}")
-
-borrowBook()
-    
 
 # "main functon" 
 def main():
@@ -53,5 +51,7 @@ def main():
                 print("Please type 1,2,3")
         except ValueError:
             print("Please type number only 1,2,3")
+
+main()
 
 
