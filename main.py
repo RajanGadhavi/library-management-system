@@ -4,162 +4,161 @@ import string
 import firebase_admin
 from firebase_admin import credentials, db
 
-#"Firebase Here"
-cred = credentials.Certificate("D:/Data/Python/New Begging/cred.json") 
+# "Firebase Initialization"
+cred = credentials.Certificate("D:/Data/Python/New Beginning/cred.json") 
 firebase_admin.initialize_app(cred, {
     'databaseURL': "https://onlib-f4bf7-default-rtdb.firebaseio.com/"
 })
     
-ref_available_book = db.reference('AvailableBooks/BookData')
+ref_available_books = db.reference('AvailableBooks/BookData')
 ref_users_data = db.reference('Users/UsersData')
 
-# "this function is to print list of books" 
-def showAvailableBooks():
-    data = ref_available_book.get()
-    for bookid, bookinfo in data['BookData'].items():
-        print(f"{bookinfo['Title']} by {bookinfo['Author']}")
-        
+# "Function to print list of books" 
+def show_available_books():
+    data = ref_available_books.get()
+    for book_id, book_info in data['BookData'].items():
+        print(f"{book_info['Title']} by {book_info['Author']}")
+
 # "Add new user"
-def addNewUser(name, bookUserWant):
-    randomUserId = random.randint(20,100)
-    randomAge = random.randint(20,100)
-    newUser = {
-        f"user{randomUserId}":{
-                "name" : name,
-                "age" : randomAge,
-                "book" : bookUserWant
+def add_new_user(name, book_user_wants):
+    random_user_id = random.randint(20, 100)
+    random_age = random.randint(20, 100)
+    new_user = {
+        f"user{random_user_id}": {
+                "name": name,
+                "age": random_age,
+                "book": book_user_wants
             }
         }
-    ref_users_data.update(newUser)
-    
-#"This function will update user data when user borrow book"     
-def userBorrowBook(name,bookUserWant):
-    usersData = ref_users_data.get()
-    for userId, userInfo in usersData.items():
-        if userInfo['name'] == name:
-            userRef = db.reference(f'Users/UsersData/{userId}')
-            userRef.update({
-                "book" : bookUserWant
+    ref_users_data.update(new_user)
+
+# "This function will update user data when a user borrows a book"     
+def user_borrow_book(name, book_user_wants):
+    users_data = ref_users_data.get()
+    for user_id, user_info in users_data.items():
+        if user_info['name'] == name:
+            user_ref = db.reference(f'Users/UsersData/{user_id}')
+            user_ref.update({
+                "book": book_user_wants
             })
             break
-        else:
-            addNewUser(name,bookUserWant)
-            break
+    else:
+        add_new_user(name, book_user_wants)
 
-#function that handel borrowing book
-def borrowBook(name,bookUserWant):
-    bookFound = False
-    data = ref_available_book.get()
+# Function that handles borrowing a book
+def borrow_book(name, book_user_wants):
+    book_found = False
+    data = ref_available_books.get()
     
-    for bookid, bookinfo in data.items():
-        if bookinfo['Title'] == bookUserWant:
-            bookFound = True
-            print(f"Thank you {name}! you have to return {bookinfo['Title']} in 30 days")
+    for book_id, book_info in data.items():
+        if book_info['Title'] == book_user_wants:
+            book_found = True
+            print(f"Thank you {name}! You have to return {book_info['Title']} in 30 days")
             
-            ref_delet_book = db.reference(f'AvailableBooks/BookData/{bookid}')
-            ref_delet_book.delete()
+            ref_delete_book = db.reference(f'AvailableBooks/BookData/{book_id}')
+            ref_delete_book.delete()
             
-            userBorrowBook(name, bookUserWant)
+            user_borrow_book(name, book_user_wants)
             break
                 
-    if not bookFound:
-        print(f"We do not have {bookUserWant} Sorry!")
+    if not book_found:
+        print(f"We do not have {book_user_wants}. Sorry!")
 
-# "this function is for retruning book"
-def returnBook(name,bookUserWant):
-    bookUserReturn = input("Which book are you going to return ? : ")
-    ref_all_book = db.reference('AllBookData')
-    Alldata = ref_all_book.get()
-    foundBook = False
+# "This function is for returning a book"
+def return_book(name, book_user_wants):
+    book_user_return = input("Which book are you going to return? : ")
+    ref_all_books = db.reference('AllBookData')
+    all_data = ref_all_books.get()
+    found_book = False
     
-    for bookid, bookinfo in Alldata['BookData'].items():
-        if bookinfo['Title'] == bookUserReturn:
-            copiedValue = {bookid : bookinfo}
-            ref_available_book.update(copiedValue)
+    for book_id, book_info in all_data['BookData'].items():
+        if book_info['Title'] == book_user_return:
+            copied_value = {book_id: book_info}
+            ref_available_books.update(copied_value)
             
-        usersData = ref_users_data.get()
-        for userId, userInfo in usersData.items():
-            if userInfo['name'] == name:
-                userRef = db.reference(f'Users/UsersData/{userId}')
-                userRef.update({
-                    "book" : "none"
-                })
-            else:
-                addNewUser(name,bookUserWant)    
-        foundBook = True
-        print("Thank you visit us again")
-        break
-            
-    if not foundBook:
-        randomBookId = random.randint(600,1000)
-        randomYear = random.randint(1900,2000)
-        random_name = ''.join(random.choices(string.ascii_letters, k=8))
-        newBook = {
-            f"Book_{randomBookId}":{
-                "Title" : bookUserReturn,
-                "Author" : random_name,
-                "Published Year" : randomYear
-                }
-            }
-        ref_available_book.update(newBook)
-        print("Thank you visit us again")
-        addNewUser(name,bookUserWant = "")
-        
-#use profile show and add new users
-def showUserProfile(name):
-    usersData = ref_users_data.get()
-    userFound = False
-    for userId, userInfo in usersData.items():
-        if userInfo['name'] == name:
-            print(f"Name : {userInfo['name']}\nBook : {userInfo['book']}")
-            userFound = True
+            users_data = ref_users_data.get()
+            for user_id, user_info in users_data.items():
+                if user_info['name'] == name:
+                    user_ref = db.reference(f'Users/UsersData/{user_id}')
+                    user_ref.update({
+                        "book": "none"
+                    })
+                else:
+                    add_new_user(name, book_user_wants)    
+            found_book = True
+            print("Thank you! Visit us again.")
             break
             
-    if not userFound:
-        print(f"User {name} does not have a account")
-        addUser = int(input(f"Press 1 to add {name} as new account ? : "))
-        if addUser == 1:
-            addNewUser(name,bookUserWant="none")
-            print(f"New user {name} added")           
+    if not found_book:
+        random_book_id = random.randint(600, 1000)
+        random_year = random.randint(1900, 2000)
+        random_name = ''.join(random.choices(string.ascii_letters, k=8))
+        new_book = {
+            f"Book_{random_book_id}": {
+                "Title": book_user_return,
+                "Author": random_name,
+                "Published Year": random_year
+                }
+            }
+        ref_available_books.update(new_book)
+        print("Thank you! Visit us again.")
+        add_new_user(name, book_user_wants="")
+
+# User profile function to show and add new users
+def show_user_profile(name):
+    users_data = ref_users_data.get()
+    user_found = False
+    for user_id, user_info in users_data.items():
+        if user_info['name'] == name:
+            print(f"Name: {user_info['name']}\nBook: {user_info['book']}")
+            user_found = True
+            break
+            
+    if not user_found:
+        print(f"User {name} does not have an account")
+        add_user = int(input(f"Press 1 to add {name} as a new account? : "))
+        if add_user == 1:
+            add_new_user(name, book_user_wants="none")
+            print(f"New user {name} added.")           
         else:
-            print(f"{name} is not in databse")
+            print(f"{name} is not in the database.")
                                        
-# "main functon" 
+# "Main function" 
 def main():
-    name = str(input("Please eneter your name : "))
-    print(f" Hello {name}! How are you! ")
+    name = str(input("Please enter your name: "))
+    print(f"Hello {name}! How are you?")
     while True:
         try:
-            userChoice = int(input("1.Continue\n2.Quite : "))
-            if userChoice == 1:
+            user_choice = int(input("1. Continue\n2. Quit: "))
+            if user_choice == 1:
                 print("What would you like to do?")
                 try:
-                    userInput = int(input("1.Borrow Book\n2.Return Book\n3.User Profile\n4.Quite : "))
-                    if userInput == 1:
-                        userInForBook = int(input("1.Show available books\n2.Borrow book by Title ? : "))
-                        if userInForBook == 1 :
-                            showAvailableBooks()
-                        elif userInForBook == 2:
-                            bookUserWant = input("Enter book name : ")
-                            borrowBook(name,bookUserWant)
+                    user_input = int(input("1. Borrow Book\n2. Return Book\n3. User Profile\n4. Quit: "))
+                    if user_input == 1:
+                        user_info_for_book = int(input("1. Show available books\n2. Borrow book by Title? : "))
+                        if user_info_for_book == 1:
+                            show_available_books()
+                        elif user_info_for_book == 2:
+                            book_user_wants = input("Enter book name: ")
+                            borrow_book(name, book_user_wants)
                         else:
-                            print("Please eneter 1-2 number only")
-                    elif userInput == 2:
-                        returnBook(name,bookUserWant = "")
-                    elif userInput == 3:
-                        showUserProfile(name)
-                    elif userInput == 4:
+                            print("Please enter a number between 1-2 only.")
+                    elif user_input == 2:
+                        return_book(name, book_user_wants="")
+                    elif user_input == 3:
+                        show_user_profile(name)
+                    elif user_input == 4:
                         break
                     else:
-                        print("Please type number only 1-4")
+                        print("Please type a number between 1-4.")
                 except ValueError:
-                    print("Please type number only 1,2,3,4")
-            elif userChoice == 2:
-                print("Thank you visit again!")
+                    print("Please type a number between 1, 2, 3, or 4.")
+            elif user_choice == 2:
+                print("Thank you! Visit again!")
                 break
             else:
-                print("Please type 1,2,3")
+                print("Please type 1 or 2.")
         except ValueError:
-            print("Please type number only 1,2")
+            print("Please type a number between 1 and 2.")
 
 main()
