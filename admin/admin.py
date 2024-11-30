@@ -9,12 +9,12 @@ firebase_admin.initialize_app(cred, {
 })
 
 #Books data stored on local storge to firebase 
-bookFilePath = r"D:\Data\Python\New Begging\library-management-system\booksData.json"
+bookFilePath = r"D:\Data\Python\New Begging\library-management-system\admin\booksData.json"
 with open(bookFilePath, "r") as file:
     books_dict = json.load(file)
     
 #User data stored on local storge to firebase
-userFilePath = r"D:\Data\Python\New Begging\library-management-system\userData.json"
+userFilePath = r"D:\Data\Python\New Begging\library-management-system\admin\userData.json"
 with open(userFilePath, "r") as file:
     user_dict = json.load(file)
 
